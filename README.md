@@ -1,2 +1,2 @@
 # discord-vanity-url-sniper
-HIZLI BİR SNİPERDİR 60-100 MS GÖRÜRSÜNÜZ
+ortlama bi sniperdir kendi pcniz 70-100 alabilirsiniz iyi bir vdsde çok daha  iyi bir performans sağlar
