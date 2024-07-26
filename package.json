@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "extract-json-from-string": "^1.0.1",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "ws": "^8.17.1"
+  }
+}
